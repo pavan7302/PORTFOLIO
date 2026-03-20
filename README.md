@@ -1,6 +1,6 @@
 # ☁️ Pavan A — DevOps & Cloud Engineer
 
-🌐 **Portfolio:** [pavan-portfolio-site.vercel.app](https://pavan-portfolio-site.vercel.app)
+🌐 **Portfolio:** [https://portfolio-pavan-web.netlify.app/](https://portfolio-pavan-web.netlify.app/)
 
 ---
 
@@ -30,5 +30,5 @@
 ---
 
 ## 📫 Connect
-- 🌐 Portfolio: [pavan-portfolio-site.vercel.app](https://pavan-portfolio-site.vercel.app)
+- 🌐 Portfolio: [https://portfolio-pavan-web.netlify.app/](https://portfolio-pavan-web.netlify.app/)
 - 💼 Projects: [github.com/pavan7302/DevOps-and-Cloud-projects](https://github.com/pavan7302/DevOps-and-Cloud-projects)
