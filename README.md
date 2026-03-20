@@ -32,4 +32,3 @@
 ## 📫 Connect
 - 🌐 Portfolio: [pavan-portfolio-site.vercel.app](https://pavan-portfolio-site.vercel.app)
 - 💼 Projects: [github.com/pavan7302/DevOps-and-Cloud-projects](https://github.com/pavan7302/DevOps-and-Cloud-projects)
-
